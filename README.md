@@ -8,6 +8,8 @@
 
 A lean, no-frills Android frontend for a custom ARM-optimized `ccminer` build. One pool, one purpose — squeeze every hash out of your ARM chip.
 
+https://github.com/user-attachments/assets/91138b7a-4d97-410a-b5b1-72e101c39bdc
+
 ---
 
 ## Why

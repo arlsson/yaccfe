@@ -122,7 +122,6 @@ adb shell am start -W -a android.intent.action.VIEW \
 
 Still a proof of concept — not all ideas are fully explored.
 
-This first release dedicated to **ejuliano** — *“Never Retreat, Never Surrender.”*
 
 ---
 

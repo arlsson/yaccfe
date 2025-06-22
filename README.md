@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/91138b7a-4d97-410a-b5b1-72e101c39bdc
 ## Install
 
 Download the APK:
-[https://github.com/arlsson//yaccfe/releases](https://github.com/arlsson//yaccfe/releases)
+[https://github.com/arlsson//yaccfe/releases](https://github.com/arlsson/yaccfe/releases)
 
 ---
 
@@ -124,14 +124,11 @@ adb shell am start -W -a android.intent.action.VIEW \
 
 Still a proof of concept — not all ideas are fully explored.
 
-
 ---
 
 ## Roadmap
 
-* Improve microarchitecture-specific optimizations
-* Add temperature monitoring logic
-* Reduce APK size
+see release README
 
 ---
 

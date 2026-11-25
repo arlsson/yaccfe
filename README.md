@@ -1,6 +1,6 @@
 # yaccfe
 
-**yaccfe** is a minimalist Android frontend for a heavily optimized, custom-built fork of `ccminer Verushash2.2 v3.8.3`, targeting a wide range of ARM CPUs. It’s not a generic miner application — it’s a focused, high-performance wrapper around a locked-in mining core.
+**yaccfe** is a minimalist Android frontend for a heavily optimized, custom-built fork of `ccminer Verushash2.3 v3.8.3`, targeting a wide range of ARM CPUs. It’s not a generic miner application — it’s a focused, high-performance wrapper around a locked-in mining core.
 
 ---
 
@@ -8,7 +8,6 @@
 
 A lean, no-frills Android frontend for a custom ARM-optimized `ccminer` build. One pool, one purpose — squeeze every hash out of your ARM chip.
 
-https://github.com/user-attachments/assets/91138b7a-4d97-410a-b5b1-72e101c39bdc
 
 ---
 
@@ -58,7 +57,7 @@ Supports over 50 ARMv8+ microarchitectures, including:
 
 ## Technical Notes
 
-* Based on: `ccminer Verushash2.2 v3.8.3`
+* Based on: `ccminer Verushash2.3 v3.8.3`
 * Changes include:
 
   * Custom API interface
@@ -72,20 +71,7 @@ Supports over 50 ARMv8+ microarchitectures, including:
 
 ## Limitations
 
-* No GUI config — one static config per install
-* Only supports one `-o` pool/URL (use your own proxy if needed)
 * CPU-only; GPU not supported
-
----
-
-## Tested On
-
-* Android 9
-
-  * Cortex-A53
-* Android 10
-
-  * Cortex-A76
 
 ---
 
